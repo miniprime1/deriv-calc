@@ -12,6 +12,7 @@ double derive(double (*f)(double), double a)
 }
 
 int main() {
+    // Variables
     int opt;
     double a;
     
