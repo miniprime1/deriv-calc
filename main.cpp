@@ -32,14 +32,14 @@ int main() {
     // Main
     if (opt == 1) {
         printf("Detailed options\n");
-		printf("1. Compute derivative of cosine\n");
-		printf("2. Compute derivative of sine\n");
-		printf("3. Compute derivative of tangent\n");
-		printf("4. Compute derivative of arc cosine\n");
-		printf("5. Compute derivative of arc sine\n");
-		printf("6. Compute derivative of arc tangent\n");
-		printf("Enter choice: ");
-		scanf("%d", &opt);
+	printf("1. Compute derivative of cosine\n");
+	printf("2. Compute derivative of sine\n");
+	printf("3. Compute derivative of tangent\n");
+	printf("4. Compute derivative of arc cosine\n");
+	printf("5. Compute derivative of arc sine\n");
+	printf("6. Compute derivative of arc tangent\n");
+	printf("Enter choice: ");
+	scanf("%d", &opt);
         printf("\n");
         
 		if (opt == 1) {
